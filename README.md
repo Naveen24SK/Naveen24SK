@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 
 ## 💫 About Me:
-<h5>🏃🏻‍♂️‍➡️ A passionate 3rd Year Computer Science Student, Aspiring Full Stack Developer with a love for turning ideas into real-world web solutions.</h5>
+<h5>✨ A passionate 3rd Year Computer Science Student, Aspiring Full Stack Developer with a love for turning ideas into real-world web solutions.</h5>
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveensk24)
